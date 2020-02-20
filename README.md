@@ -25,8 +25,8 @@ DB DESIGN: https://dbdesigner.page.link/oX4xH3vnb9DUghY89
 
 ### Migrations and Seeds
 
-- Write a migration file that creates all tables necessary to model this data
-- Write seed files to populate the tables with test data. **Hint**: Keep your recipes *very* simple or this step could become extremely time consuming.
+[x] Write a migration file that creates all tables necessary to model this data
+[x] Write seed files to populate the tables with test data. **Hint**: Keep your recipes *very* simple or this step could become extremely time consuming.
 
 ### Data Access
 
